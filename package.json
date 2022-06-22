@@ -1,0 +1,28 @@
+{
+  "name": "coinpricelist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uno95/coinpricelist-js.git"
+  },
+  "keywords": [
+    "crypto"
+  ],
+  "author": "Uno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Uno95/coinpricelist-js/issues"
+  },
+  "homepage": "https://github.com/Uno95/coinpricelist-js#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.18.0"
+  }
+}
